@@ -1,2 +1,2 @@
-i#!/bin/bash
- sudo chown -R --from=guillaume betty *
+#!/bin/bash
+sudo chown -R --from=guillaume betty *
